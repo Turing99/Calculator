@@ -1,0 +1,9 @@
+E:\c++&Csh\VS\Calculator\bin\Debug\Calculator.exe.config
+E:\c++&Csh\VS\Calculator\bin\Debug\Calculator.exe
+E:\c++&Csh\VS\Calculator\bin\Debug\Calculator.pdb
+E:\c++&Csh\VS\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\c++&Csh\VS\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\c++&Csh\VS\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\c++&Csh\VS\Calculator\obj\Debug\Calculator.exe
+E:\c++&Csh\VS\Calculator\obj\Debug\Calculator.pdb
+E:\c++&Csh\VS\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
